@@ -54,6 +54,16 @@ space-portfolio/
     |-- icon2.png
     |-- layout.tsx
     |-- page.tsx
+  |- Certificates/
+    |-- 02 Merit-HACK-IOT_split_20.pdf
+    |-- autometacertificate.pdf
+    |-- certificate-raman-negi.pdf
+    |-- Cloud Computing.pdf
+    |-- Coursera UOXSWPSM9JTI.pdf
+    |-- introduction to p[ython.pdf
+    |-- UC-34e10601-6db9-4c9c-b323-6470c46d4358.pdf
+    |-- UC-a412e24f-d97e-45f1-8004-8db5b6302393.pdf
+    |-- UC-c01359ed-89f1-42a9-915c-4b4778505992.pdf
   |- components/
     |-- main/
     |-- sub/
@@ -61,6 +71,10 @@ space-portfolio/
     |-- index.ts
   |- constants/
     |-- index.ts
+  |- CV/
+    |-- thumbnails/
+    |-- print.pdf
+    |-- Resume.pdf
   |- lib/
     |-- motion.ts
     |-- utils.ts
@@ -70,7 +84,6 @@ space-portfolio/
   |- eslint.config.mjs
   |- netlify.toml
   |- next.config.js
-  |- package-lock.json
   |- package.json
   |- postcss.config.js
   |- tailwind.config.ts
@@ -117,6 +130,7 @@ You might encounter some bugs while using this app. You are more than welcome to
 Useful resources and dependencies that are used in Space Portfolio.
 
 <!--- DEPENDENCIES_START --->
+- [@emailjs/browser](https://www.npmjs.com/package/@emailjs/browser): ^4.4.1
 - [@heroicons/react](https://www.npmjs.com/package/@heroicons/react): ^2.2.0
 - [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^10.7.7
 - [@react-three/fiber](https://www.npmjs.com/package/@react-three/fiber): ^9.5.0
