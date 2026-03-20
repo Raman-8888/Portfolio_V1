@@ -189,55 +189,55 @@ export const CERTIFICATES = [
   {
     title: "Merit-HACK-IOT",
     description: "Certificate of merit from Merit-HACK-IOT event.",
-    image: "/certificates/placeholder.png",
+    image: "/certificates/thumbs/02-merit-hack-iot-split-20.png",
     link: "/certificates/02 Merit-HACK-IOT_split_20.pdf",
   },
   {
     title: "Cloud Computing",
     description: "Professional certification in Cloud Computing.",
-    image: "/certificates/placeholder.png",
+    image: "/certificates/thumbs/cloud-computing.png",
     link: "/certificates/Cloud Computing.pdf",
   },
   {
     title: "Coursera - UOXSWPSM9JTI",
     description: "Coursera certification for completed course.",
-    image: "/certificates/placeholder.png",
+    image: "/certificates/thumbs/coursera-uoxswpsm9jti.png",
     link: "/certificates/Coursera UOXSWPSM9JTI.pdf",
   },
   {
     title: "Udemy - Business Communication",
     description: "Udemy certification: UC-34e10601-6db9-4c9c-b323-6470c46d4358.",
-    image: "/certificates/placeholder.png",
+    image: "/certificates/thumbs/uc-34e10601-6db9-4c9c-b323-6470c46d4358.png",
     link: "/certificates/UC-34e10601-6db9-4c9c-b323-6470c46d4358.pdf",
   },
   {
     title: "Udemy - Advanced Skillset",
     description: "Udemy certification: UC-a412e24f-d97e-45f1-8004-8db5b6302393.",
-    image: "/certificates/placeholder.png",
+    image: "/certificates/thumbs/uc-a412e24f-d97e-45f1-8004-8db5b6302393.png",
     link: "/certificates/UC-a412e24f-d97e-45f1-8004-8db5b6302393.pdf",
   },
   {
     title: "Udemy - Specialization",
     description: "Udemy certification: UC-c01359ed-89f1-42a9-915c-4b4778505992.",
-    image: "/certificates/placeholder.png",
+    image: "/certificates/thumbs/uc-c01359ed-89f1-42a9-915c-4b4778505992.png",
     link: "/certificates/UC-c01359ed-89f1-42a9-915c-4b4778505992.pdf",
   },
   {
     title: "Autometa Certificate",
     description: "Professional certificate from Autometa.",
-    image: "/certificates/placeholder.png",
+    image: "/certificates/thumbs/autometacertificate.png",
     link: "/certificates/autometacertificate.pdf",
   },
   {
     title: "Raman Negi Personal Certificate",
     description: "Achievement certificate for Raman Negi.",
-    image: "/certificates/placeholder.png",
+    image: "/certificates/thumbs/certificate-raman-negi.png",
     link: "/certificates/certificate-raman-negi.pdf",
   },
   {
     title: "Introduction to Python",
     description: "Certification for completing Introduction to Python course.",
-    image: "/certificates/placeholder.png",
+    image: "/certificates/thumbs/introduction-to-p-ython.png",
     link: "/certificates/introduction to p[ython.pdf",
   },
 ] as const;
@@ -317,6 +317,10 @@ export const NAV_LINKS = [
   {
     title: "Projects",
     link: "#projects",
+  },
+  {
+    title: "Certificates",
+    link: "#certificates",
   },
   {
     title: "Contact",
